@@ -1,3 +1,13 @@
+{
+  "categories": [
+    {
+      "id": "tv",
+      "name": "טלוויזיה",
+      "sub_categories": [
+        {
+          "id": "tv_israel",
+          "name": "ישראל",
+          "channels":
 [
     {
     "name": "kan 11",
@@ -40,3 +50,8 @@
     "url":   "https://www.youtube.com/c/c5n/live"
   }
 ]
+        }
+      ]
+    }
+  ]
+}
