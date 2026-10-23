@@ -39,6 +39,12 @@
     "logo": "https://wikimedia.org",
     "url":   "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
   },
+]
+   {
+          "id": "News",
+          "name": "חדשות",
+          "channels":
+[
   { 
     "name": "cnn",
     "logo": "https://wikimedia.org",
