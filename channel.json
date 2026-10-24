@@ -39,16 +39,12 @@
               "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
             }
           ]
-        },
-      
+        },     
         {
-  "id": "apps",
-  "name": "אפליקציות מותקנות",
-  "sub_categories": [
-    {
-      "id": "apps_il",
-      "name": "ישראל",
-      "channels": [
+         "id": "apps",
+         "name": "אפליקציות מותקנות",
+         "channels": [
+        {    
         { "name": "ערוץ 12 - mako", 
           "logo": "", 
           "app": "EUVXZqucqz.makoTV" },
@@ -57,12 +53,9 @@
           "app": "WnHJ5hrafY.13" },
         { "name": "כאן BOX",        
           "logo": "", 
-          "app": "Kan11IPBC1.KanTV" }
-      ]
-    }
-  ]
-},
-
+          "app": "Kan11IPBC1.KanTV" 
+        }
+  },
         {
           "id": "News",
           "name": "חדשות",
