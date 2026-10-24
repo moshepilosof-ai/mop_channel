@@ -10,7 +10,7 @@
           "channels": [
             {
               "name": "kan 11",
-              "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEUAAAD///+dnZ0aGhr8/Py1tbVDQ0OioqIKCgqPj4/MzMy7u7uMjIzY2NjU1NR/f39zc3OYmJhtbW1KSko3NzewsLAoKCji4uLAwMD19fVqamofHx+Hh4dwcHBdXV1RUVHt7e0zMzOpqak+Pj5hYWF9iQ0RAAADfUlEQVR4nO3aa2OaMBiGYeNCPeChtvW8dtbt///GAUkwwVg5JHNs9/WhH1Jr8/CGl4AOBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDZ+Vl4fPZFovgll9OiJRGMSDh89kWhI6PcWaTYxtEqYisc3ps18sVjMf1ZGk3zwuzPkTzheKS/eN0+z17sR3yfa7ONH57nXMyym/eQOvnm65o2EejTxvXcqpJRuxIWwbEd/YBEfpS/htFHCLIU3YSKyX0i3ilPhWkSv5Dafn6wkHPmufI1rmBbR8x9WCjuhLF6wC5bF5+lUHORKDXd6sFvCRB27/Kf1RpUa5qt4H60ZjV+mOoqd8PW8V8e+Y8JEv3X2XitruLpKC4ewwYytOoTueTjTk+qcMBHSrFE7oDehFB+hwxVO9j8xCSf2YIeENyro9lJzJDOfodPlthETmgpmOSsbhMPSmKX7SxG3odPlTvaBrCSU3TrN2nTRagUrluUp//XrWjqnSZKst24vPeSDya5bL030vOVVBa9MhXll5zy3rDxXi8Fnp4SJWQN3KlgwF814tyxDX8KnLueh1WTqzHqu1+mpZYC7hm6nUbokbLBEC0e9TkV18x9K6IRrc2LVXndrEa/X5AInXJvmWP/EetWvj7U/DZvwbHaBssEDK/0np1bzvy9owvVlm9KgNeqtx75lgntCJpyYnUyzW6J5fxJmm85yp/lefwp9SlhGzEpZP+Jenbj9SNimip/6JrUfvdSKKIX/8dsVtW9s0nybCb6nWZSb0pq37nt9QOLcBUdI2LSKehMU7TSMkPBSxToRX8wl1PvANYQICe12cy/is2m+Itqz4RgJay/U467cBKWdUnwlSsLsIl5u3262m80hFSXZNcdtcRLmEYX3XJxKQ9hqXlnaiJSwbDdZUqeK7lN9dRAiPsIYxEtYVrGyUK+fCGcB1+HyXIuWMH/2ay4az5fRq4Qy3t29Ei9h0W7UhsyKcF3D/a9gYbyG6jh2TCi9F2zTUe3PkqsJZfQvr4x8NVSPTsTZGWzxGbCq4swechNuV+MgKb7yMZllJhtncKMG3b3wjYSp4n7mb+Ttxv3NKi2NlscAAQJq9V2MuVvBv1urhONlrOlEwHei+o+E/UfC/iNh//0HCadKn3YpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8M34DD0QheHY/jLQAAAAASUVORK5CYII=",
+              "https://wikimedia.org",
               "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
             },
             {
