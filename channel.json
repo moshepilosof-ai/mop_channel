@@ -49,9 +49,15 @@
       "id": "apps_il",
       "name": "ישראל",
       "channels": [
-        { "name": "ערוץ 12 - mako", "logo": "", "app": "EUVXZqucqz.makoTV" },
-        { "name": "ערוץ 13+",       "logo": "", "app": "WnHJ5hrafY.13" },
-        { "name": "כאן BOX",        "logo": "", "app": "Kan11IPBC1.KanTV" }
+        { "name": "ערוץ 12 - mako", 
+          "logo": "", 
+          "app": "EUVXZqucqz.makoTV" },
+        { "name": "ערוץ 13+",       
+          "logo": "", 
+          "app": "WnHJ5hrafY.13" },
+        { "name": "כאן BOX",        
+          "logo": "", 
+          "app": "Kan11IPBC1.KanTV" }
       ]
     }
   ]
