@@ -40,11 +40,9 @@
             }
           ]
         },     
-        {
-         "id": "apps",
+        {"id": "apps",
          "name": "אפליקציות מותקנות",
-         "channels": [
-        {    
+         "channels": [   
         { "name": "ערוץ 12 - mako", 
           "logo": "", 
           "app": "EUVXZqucqz.makoTV" },
@@ -55,13 +53,11 @@
           "logo": "", 
           "app": "Kan11IPBC1.KanTV" 
         }
-  },
-        {
-          "id": "News",
+       },
+        { "id": "News",
           "name": "חדשות",
           "channels": [
-            {
-              "name": "cnn",
+            { "name": "cnn",
               "logo": "https://wikimedia.org",
               "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8"
             }
