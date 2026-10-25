@@ -44,9 +44,19 @@
               "url": "http://stream.mcquack.net/48/index.m3u8"
             },
             {
+              "name": "בדיקה 11",
+              "logo": "https://wikimedia.org",
+              "url": "https://n-160-6.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4"
+            },
+            {
               "name": "בדיקה 12",
               "logo": "https://wikimedia.org",
               "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
+            },
+            {
+              "name": "בדיקה 13",
+              "logo": "https://wikimedia.org",
+              "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
             }
           ]
         },
@@ -73,6 +83,11 @@
               "name": "BLOOMBERG",
               "logo": "https://wikimedia.org",
               "url": "https://bloomberg.com/media-manifest/streams/us.m3u8"
+            },
+            {
+              "name": "BBC",
+              "logo": "https://wikimedia.org",
+              "url": "https://e1370czh.filmon.com/live/27.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe5d0168bd33d2cd3601b5ddfa91c9f9f2cc16e7ba73edcb6e8a58ee318d5d12fd4f52a9d856754b183ca3340ba19126930c9a9342e8f35016a249532ed7f9520dfa50a3f4388163ceb38a099786bd780dbfee2ab6ad81ca33e35ffc4bc6cb3cc43d2b0ab87242fa72f592bb38701471f9ce39bb2b287141391ba77a2c60f5777817633b8d873dbe4a7fa6ce8d95edef3b"
             }
           ]
         },
