@@ -68,7 +68,16 @@
               "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8"
             }
           ]
-        }
+        },
+        { "id": "Movie",
+          "name": "סרטים",
+          "channels": [
+            { "name": "yes ACTION",
+              "logo": "https://wikimedia.org",
+              "url":  "http://stream.mcquack.net/380/index.m3u8"
+            }
+          ]
+        
       ]
     }
   ]
