@@ -16,10 +16,7 @@
             {
               "name": "keshet 12",
               "logo": "https://wikimedia.org",
-              "url": "https://mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr
-                      /profile/2/hdntl=exp=1793007379~acl=%2f*~data=hdntl~hmac
-                      =ce54cae7fd74f1c1e01b456691b675994eee29f500bfbc61e16341ac25dd0920/profileManifest.m3u8?
-                      _uid=c6656152-e676-4273-a865-d3acbec3da33&rK=b3&_did=f2be5bfb-dbf7-4960-8e57-02c1a6bf3c9c"
+              "url": "http://stream.mcquack.net/294/index.m3u8"
             },
             {
               "name": "reshet 13",
