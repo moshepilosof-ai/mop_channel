@@ -38,43 +38,53 @@
               "logo": "https://wikimedia.org",
               "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
             },
-             {
+            {
               "name": "Kneset 99",
               "logo": "https://wikimedia.org",
-              "url":  "http://stream.mcquack.net/48/index.m3u8"
+              "url": "http://stream.mcquack.net/48/index.m3u8"
             }
           ]
-        },     
-        {"id": "apps",
-         "name": "אפליקציות מותקנות",
-         "channels": [   
-        { "name": "ערוץ 12 - mako", 
-          "logo": "", 
-          "app": "EUVXZqucqz.makoTV" },
-        { "name": "ערוץ 13+",       
-          "logo": "", 
-          "app": "WnHJ5hrafY.13" },
-        { "name": "כאן BOX",        
-          "logo": "", 
-          "app": "Kan11IPBC1.KanTV" 
-        }
-         ]
-       },
-        { "id": "News",
+        },
+        {
+          "id": "apps",
+          "name": "אפליקציות מותקנות",
+          "channels": [
+            {
+              "name": "ערוץ 12 - mako",
+              "logo": "",
+              "app": "EUVXZqucqz.makoTV"
+            },
+            {
+              "name": "ערוץ 13+",
+              "logo": "",
+              "app": "WnHJ5hrafY.13"
+            },
+            {
+              "name": "כאן BOX",
+              "logo": "",
+              "app": "Kan11IPBC1.KanTV"
+            }
+          ]
+        },
+        {
+          "id": "News",
           "name": "חדשות",
           "channels": [
-            { "name": "cnn",
+            {
+              "name": "cnn",
               "logo": "https://wikimedia.org",
               "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8"
             }
           ]
         },
-        { "id": "Movie",
+        {
+          "id": "Movie",
           "name": "סרטים",
           "channels": [
-            { "name": "yes ACTION",
+            {
+              "name": "yes ACTION",
               "logo": "https://wikimedia.org",
-              "url":  "http://stream.mcquack.net/380/index.m3u8"
+              "url": "http://stream.mcquack.net/380/index.m3u8"
             }
           ]
         }
