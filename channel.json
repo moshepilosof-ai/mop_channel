@@ -185,26 +185,14 @@
               "app": "Kan11IPBC1.KanTV"
             },
             {
-              "name": "+ערוץ 13",
-              "logo": "https://wikimedia.org",
-              "app": "WnHJ5hrafY.13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cat",
-      "name": "אפילקציה",
-      "sub_categories": [
-        {
-          "id": "cat_cat",
-          "name": "התקנות",
-          "channels": [
-            {
               "name": "MAKO  - ערוץ 12",
               "logo": "https://wikimedia.org",
               "app": "EUVXZqucqz.makoTV"
+            },
+            {
+              "name": "+ערוץ 13",
+              "logo": "https://wikimedia.org",
+              "app": "WnHJ5hrafY.13"
             }
           ]
         }
