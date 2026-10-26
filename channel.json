@@ -10,7 +10,7 @@
           "channels": [
             {
               "name": "kan 11",
-              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/logos/c11.jpg",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c11.jpg",
               "url": "https://n-160-6.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4"
             },
             {
@@ -35,7 +35,7 @@
             },
             {
               "name": "channel 24",
-              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/logos/c24.png",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c24.png",
               "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
             },
             {
