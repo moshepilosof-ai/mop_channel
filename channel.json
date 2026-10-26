@@ -5,23 +5,23 @@
       "name": "טלוויזיה",
       "sub_categories": [
         {
-          "id": "tv_israel",
-          "name": "ישראל",
+          "id": "tv_cat",
+          "name": "ערוצים",
           "channels": [
             {
               "name": "kan 11",
-              "logo": "https://static.wikia.nocookie.net/logopedia/images/0/00/Kan_11.svg/revision/latest?cb=20200527160049",
-              "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
+              "logo": "https://wikimedia.org",
+              "url": "https://n-160-6.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4"
             },
             {
               "name": "keshet 12",
               "logo": "https://wikimedia.org",
-              "url": "http://stream.mcquack.net/294/index.m3u8"
+              "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
             },
             {
               "name": "reshet 13",
               "logo": "https://wikimedia.org",
-              "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8"
+              "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
             },
             {
               "name": "channel 14",
@@ -42,21 +42,6 @@
               "name": "Kneset 99",
               "logo": "https://wikimedia.org",
               "url": "http://stream.mcquack.net/48/index.m3u8"
-            },
-            {
-              "name": "בדיקה 11",
-              "logo": "https://wikimedia.org",
-              "url": "https://n-160-6.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4"
-            },
-            {
-              "name": "בדיקה 12",
-              "logo": "https://wikimedia.org",
-              "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
-            },
-            {
-              "name": "בדיקה 13",
-              "logo": "https://wikimedia.org",
-              "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
             }
           ]
         },
@@ -166,6 +151,27 @@
               "name": "channel 9",
               "logo": "https://wikimedia.org",
               "url": "https://contact.gostreaming.tv/Con-11/index.m3u8"
+            }
+          ]
+        },
+        {
+          "id": "tv_cat",
+          "name": "גיבוי ערוצים",
+          "channels": [
+            {
+              "name": "kan-11",
+              "logo": "https://static.wikia.nocookie.net/logopedia/images/0/00/Kan_11.svg/revision/latest?cb=20200527160049",
+              "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
+            },
+            {
+              "name": "keshet-12",
+              "logo": "https://wikimedia.org",
+              "url": "http://stream.mcquack.net/294/index.m3u8"
+            },
+            {
+              "name": "reshet-13",
+              "logo": "https://wikimedia.org",
+              "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8"
             }
           ]
         },
