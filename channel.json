@@ -168,16 +168,10 @@
               "url": "https://contact.gostreaming.tv/Con-11/index.m3u8"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "cat",
-      "name": "אפליקציה",
-      "sub_categories": [
+        },
         {
-          "id": "cat_cat",
-          "name": "התקנות",
+          "id": "tv_cat",
+          "name": "אפליקציה",
           "channels": [
             {
               "name": "BOX - 11  כאן",
@@ -193,6 +187,38 @@
               "name": "+ערוץ 13",
               "logo": "https://wikimedia.org",
               "app": "WnHJ5hrafY.13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat",
+      "name": "רדיו",
+      "sub_categories": [
+        {
+          "id": "cat_cat",
+          "name": "תחנות",
+          "channels": [
+            {
+              "name": "GALGLAZ",
+              "logo": "https://wikimedia.org",
+              "url": "https://www.radio-head.co.il/station/glgltz/"
+            },
+            {
+              "name": "GLAZ",
+              "logo": "https://wikimedia.org",
+              "url": "https://www.radio-head.co.il/station/glz/"
+            },
+            {
+              "name": "Galey Israel",
+              "logo": "https://wikimedia.org",
+              "url": "https://www.radio-head.co.il/station/galey-israel/"
+            },
+            {
+              "name": "Kan Gimmal",
+              "logo": "https://wikimedia.org",
+              "url": "https://www.radio-head.co.il/station/kan-gimmel/"
             }
           ]
         }
