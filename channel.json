@@ -208,22 +208,22 @@
           "channels": [
             {
               "name": "GALGLAZ",
-              "logo": "",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/glglz.png",
               "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3"
             },
             {
               "name": "GLAZ",
-              "logo": "",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/glz.png",
               "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
             },
             {
               "name": "Galey Israel",
-              "logo": "",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/galisrael.png",
               "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
             },
             {
               "name": "Kan Gimmal",
-              "logo": "",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/Kangimel.png",
               "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3"
             }
           ]
