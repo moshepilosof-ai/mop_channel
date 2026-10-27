@@ -209,7 +209,7 @@
             {
               "name": "GALGLAZ",
               "logo": "",
-              "url": "https://www.radio-head.co.il/station/glgltz/"
+              "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3"
             },
             {
               "name": "GLAZ",
@@ -219,12 +219,12 @@
             {
               "name": "Galey Israel",
               "logo": "",
-              "url": "https://www.radio-head.co.il/station/galey-israel/"
+              "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
             },
             {
               "name": "Kan Gimmal",
               "logo": "",
-              "url": "https://www.radio-head.co.il/station/kan-gimmel/"
+              "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3"
             }
           ]
         }
