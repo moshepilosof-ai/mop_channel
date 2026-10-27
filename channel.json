@@ -207,12 +207,12 @@
           "name": "תחנות",
           "channels": [
             {
-              "name": "GALGLAZ",
+              "name": "GALGLZ",
               "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/glglz.png",
               "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3"
             },
             {
-              "name": "GLAZ",
+              "name": "GLZ",
               "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/glz.png",
               "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
             },
