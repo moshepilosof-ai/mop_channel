@@ -1,0 +1,234 @@
+{
+  "categories": [
+    {
+      "id": "tv",
+      "name": "טלוויזיה",
+      "sub_categories": [
+        {
+          "id": "tv_cat",
+          "name": "ערוצים",
+          "channels": [
+            {
+              "name": "kan 11",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c11.jpg",
+              "url": "https://n-160-6.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4"
+            },
+            {
+              "name": "keshet 12",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c12.jpg",
+              "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
+            },
+            {
+              "name": "reshet 13",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c13.jpg",
+              "url": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000"
+            },
+            {
+              "name": "channel 14",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c14.jpg",
+              "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+            },
+            {
+              "name": "channel 16",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c16.jpg",
+              "url": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+            },
+            {
+              "name": "channel 24",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/c24.png",
+              "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+            },
+            {
+              "name": "Kneset 99",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/kneset.jpg",
+              "url": "http://stream.mcquack.net/48/index.m3u8"
+            }
+          ]
+        },
+        {
+          "id": "News",
+          "name": "חדשות",
+          "channels": [
+            {
+              "name": "CNN",
+              "logo": "",
+              "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8"
+            },
+            {
+              "name": "FOX",
+              "logo": "",
+              "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
+            },
+            {
+              "name": "NBC",
+              "logo": "",
+              "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001"
+            },
+            {
+              "name": "BLOOMBERG",
+              "logo": "",
+              "url": "https://bloomberg.com/media-manifest/streams/us.m3u8"
+            },
+            {
+              "name": "BBC",
+              "logo": "",
+              "url": "https://e1373czh.filmon.com/live/27.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeaec04b390c69c49acb226cf2174b03808794ab4fb58f73ee1fdbf74eed6447657757344e010007e05068c6d6c800e41c3c0f0c3d8960eb49c4ca26d981efd096d733a9b5d5ed4d2b2a494cc4099fa4d59f43e6c42e37ef4d3aa3eb48737917ec891af8bcc12937e668c80c43591427c52ac379396e7c0c62728759dc9975c5029c67244385f2d9dfe766ca3f1b29cef4"
+            }
+          ]
+        },
+        {
+          "id": "Movie",
+          "name": "סרטים",
+          "channels": [
+            {
+              "name": "yes ACTION",
+              "logo": "",
+              "url": "http://stream.mcquack.net/380/index.m3u8"
+            },
+            {
+              "name": "HOT",
+              "logo": "",
+              "url": "http://stream.mcquack.net/381/index.m3u8"
+            },
+            {
+              "name": "HOT-Z",
+              "logo": "",
+              "url": "http://stream.mcquack.net/379/index.m3u8"
+            },
+            {
+              "name": "VIVA",
+              "logo": "",
+              "url": "http://stream.mcquack.net/43/index.m3u8"
+            }
+          ]
+        },
+        {
+          "id": "tv_cat",
+          "name": "ילדים",
+          "channels": [
+            {
+              "name": "KAN 24",
+              "logo": "",
+              "url": "http://stream.mcquack.net/42/index.m3u8"
+            },
+            {
+              "name": "ZOOM",
+              "logo": "",
+              "url": "http://stream.mcquack.net/377/index.m3u8"
+            },
+            {
+              "name": "Hop!",
+              "logo": "",
+              "url": "http://stream.mcquack.net/44/index.m3u8"
+            },
+            {
+              "name": "Kan Educ.",
+              "logo": "",
+              "url": "http://stream.mcquack.net/378/index.m3u8"
+            }
+          ]
+        },
+        {
+          "id": "tv_cat",
+          "name": "שפות",
+          "channels": [
+            {
+              "name": "KAN 33",
+              "logo": "",
+              "url": "http://89.33.29.115:8080/TeenNick/index.m3u8"
+            },
+            {
+              "name": "HALA",
+              "logo": "",
+              "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
+            },
+            {
+              "name": "VIVA Ins",
+              "logo": "",
+              "url": "http://str2.iptvhd.ru:8080/viva_plus/index.m3u8"
+            },
+            {
+              "name": "channel 9",
+              "logo": "",
+              "url": "https://contact.gostreaming.tv/Con-11/index.m3u8"
+            }
+          ]
+        },
+        {
+          "id": "tv_cat",
+          "name": "גיבוי ערוצים",
+          "channels": [
+            {
+              "name": "kan-11",
+              "logo": "",
+              "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
+            },
+            {
+              "name": "keshet-12",
+              "logo": "",
+              "url": "http://stream.mcquack.net/294/index.m3u8"
+            },
+            {
+              "name": "reshet-13",
+              "logo": "",
+              "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/850e31c0e6fa4d94a44d6ccd63e4b400/index.m3u8"
+            }
+          ]
+        },
+        {
+          "id": "tv_cat",
+          "name": "אפליקציה",
+          "channels": [
+            {
+              "name": "BOX - 11  כאן",
+              "logo": "",
+              "app": "Kan11IPBC1.KanTV"
+            },
+            {
+              "name": "MAKO  - ערוץ 12",
+              "logo": "",
+              "app": "EUVXZqucqz.makoTV"
+            },
+            {
+              "name": "+ערוץ 13",
+              "logo": "",
+              "app": "WnHJ5hrafY.13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat",
+      "name": "רדיו",
+      "sub_categories": [
+        {
+          "id": "cat_cat",
+          "name": "תחנות",
+          "channels": [
+            {
+              "name": "GALGLZ",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/glglz.png",
+              "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3"
+            },
+            {
+              "name": "GLZ",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/glz.png",
+              "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+            },
+            {
+              "name": "Galey Israel",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/galisrael.png",
+              "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+            },
+            {
+              "name": "Kan Gimmal",
+              "logo": "https://raw.githubusercontent.com/moshepilosof-ai/mop_channel/main/Kangimel.png",
+              "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
